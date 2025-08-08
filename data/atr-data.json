@@ -1,0 +1,14 @@
+{
+  "nombrePLC": "ATR-34 PLC",
+  "numeroPLC": "00000000",
+  "pakbus": "000",
+  "ultimoMantenimiento": "01/01/2023",
+  "equipos": [],
+  "camposAdicionales": [],
+  "links": {
+    "certificado": "#",
+    "diagrama": "#",
+    "manual": "#",
+    "especificaciones": "#"
+  }
+}
